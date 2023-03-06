@@ -1,2 +1,2 @@
 # github-test1
-y first git repository
+My first git repository
